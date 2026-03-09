@@ -1,12 +1,8 @@
 # ActionVault
 
-A web application for action figure collectors to catalogue and manage their collections.
+ActionVault helps collectors organize, track, and showcase their action figure collections. Whether you collect vintage Star Wars figures, Marvel Legends, model kits, or any other line, ActionVault gives you a central place to manage it all!
 
-## About
-
-ActionVault helps collectors organize, track, and showcase their action figure collections. Whether you collect vintage Star Wars figures, Marvel Legends, or any other line, ActionVault gives you a central place to manage it all.
-
-## Features (Planned)
+## Planned Features
 
 - Add and edit action figures in your collection
 - Upload photos for each figure
@@ -17,14 +13,6 @@ ActionVault helps collectors organize, track, and showcase their action figure c
 
 ## Tech Stack
 
-- HTML / CSS / JavaScript
+- HTML, CSS, JavaScript
 - Node.js (planned for backend)
-
-## Getting Started
-
-1. Clone the repository
-2. Open `index.html` in your browser
-
-## License
-
-This project is for educational purposes as part of DIG4503.
+- Additional assistance provided by Claude Code
